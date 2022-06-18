@@ -29,3 +29,6 @@ img{
     text-align: center;
     align-items: center;
 }
+.borderRad{
+    border-radius:10px
+}
